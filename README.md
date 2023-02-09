@@ -17,7 +17,7 @@
 
 # Descrição do Projeto
 
-Projeto em desenvolvimento para "Escolinha do Fe". O projeto de pizzaria é um BD onde iremos montar um App de pizzaria do 0.
+Projeto em desenvolvimento para "Escolinha do Fe". O projeto de pizzaria é um BD onde iremos montar um App para uma pizzaria do 0.
 
 # Demonstração do Modelo
 
